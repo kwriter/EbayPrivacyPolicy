@@ -1,0 +1,47 @@
+Privacy Policy
+Last updated: oct. 8, 2024
+
+1. Introduction
+
+I, Nico Krebs ("we," "us," or "our") operates myKScraperApp (the "Service"). This Privacy Policy informs you of our policies regarding the collection, use, and disclosure of data when you use our Service.
+
+2. Data Collection and Use
+
+We collect publicly available offer data from eBay to provide an overview of the market. The types of data collected include:
+
+Product titles
+Prices
+Images
+Product descriptions
+Listing URLs
+Other related market information
+3. Personal Data
+
+We do not collect, store, or process any personal user data. This includes names, email addresses, or any other information that can identify an individual.
+
+4. Cookies and Tracking TechnologiesWW
+
+Our Service does not use cookies or similar tracking technologies to collect information about your browsing activities.
+
+5. Data Storage and Security
+
+The data collected is stored in our secure database and is used solely for the purpose of providing market analysis and insights within the Service. We implement reasonable security measures to protect the data from unauthorized access or disclosure.
+
+6. Data Sharing and Disclosure
+
+We do not share, sell, or disclose the collected data to any third parties. The data is used exclusively by us to improve and operate the Service.
+
+7. Children's Privacy
+
+Our Service does not address anyone under the age of 13. We do not knowingly collect personally identifiable information from children.
+
+8. Changes to This Privacy Policy
+
+We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page with an updated "Last updated" date.
+
+9. Contact Us
+
+If you have any questions about this Privacy Policy, please contact us:
+
+Email: [Your Contact Email]
+Address: [Your Company Address]
